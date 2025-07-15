@@ -17,7 +17,4 @@ MyEventLogViewer/ ├── initiate.sh # 初期セットアップスクリプ�
 アプリケーションのエントリーポイントとなるファイルです。イベントログの処理と表示を担います。
 
 使用方法
-
-``bash
 sh initiate.sh
-bash
