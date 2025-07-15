@@ -4,7 +4,7 @@
 
 ## プロジェクト構成
 
-MyEventLogViewer/ ├── initiate.sh # 初期セットアップスクリプト ├── requirements.txt # 必要なPythonライブラリのリスト └── main.py # メインアプリケーションのコード
+MyEventLogViewer/ ├── initiate.sh ├── requirements.txt └── main.py
 
 
 ### initiate.sh
