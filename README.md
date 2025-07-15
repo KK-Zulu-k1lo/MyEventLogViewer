@@ -20,12 +20,12 @@ bash
 
 使用方法
 initiate.sh を実行して環境をセットアップします：
-```bash
+``bash
 sh initiate.sh
 bash
 
 main.py を実行してアプリケーションを起動します：
 
-```bash
+`bash
 python main.py
 bash
