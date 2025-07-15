@@ -12,20 +12,12 @@ MyEventLogViewer/ ├── initiate.sh # 初期セットアップスクリプ�
 
 ### requirements.txt
 プロジェクトで使用するすべてのPythonパッケージが記載されています。以下のコマンドでインストール可能です：
-```bash
-pip install -r requirements.txt
-bash
-###　main.py
+
+### main.py
 アプリケーションのエントリーポイントとなるファイルです。イベントログの処理と表示を担います。
 
 使用方法
-initiate.sh を実行して環境をセットアップします：
+
 ``bash
 sh initiate.sh
-bash
-
-main.py を実行してアプリケーションを起動します：
-
-`bash
-python main.py
 bash
